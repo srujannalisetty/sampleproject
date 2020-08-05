@@ -14,4 +14,5 @@ install: pip install tox-travis
 script: tox
 
 notifications:
+
   email: false
